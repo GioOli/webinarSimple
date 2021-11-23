@@ -7,7 +7,7 @@
 
 ## Equipa
 <div>
- <a href="https://github.com/raquel-f">David Paiva</a> <br>
+ <a href="https://github.com/davidpaiva110">David Paiva</a> <br>
  <a href="https://github.com/GioOli">Giovanni Oliveira</a> <br>
  <a href="https://github.com/joaolealgh">João Leal</a> 
 </div>
@@ -27,6 +27,6 @@ Pré-requisitos necessários para a realização da componente prática do Webin
 <br />
 
 ## Contextualização
--  O objetivo geral deste projeto não é o desenvolvimento de uma aplicação nativa Android com funcionalidades avançadas. A aplicação contida neste projeto é um exemplo meramente prático de algumas especificidades da linguagem Kotlin. 
+-  O objetivo geral deste projeto não é o desenvolvimento de uma aplicação nativa Android com funcionalidades avançadas. -  O objetivo geral deste projeto não é o desenvolvimento de uma aplicação nativa Android com funcionalidades avançadas. A aplicação desenvolvida neste projeto é um exemplo simples e prático que tem como objetivo demonstrar algumas especificidades da linguagem Kotlin.
 -  Este repositório contém apenas o esquelo da aplicação a ser desenvolvida na segunda parte do Webinar.
 -  A solução final da aplicação pode ser encontrada no seguinte repositório: https://github.com/GioOli/webinarComplete
